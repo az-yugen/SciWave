@@ -1,0 +1,25 @@
+How do ants know if their task is to protect the colony or to forage for food?
+Researchers have made an unexpected discovery, showing that the blood-brain barrier in carpenter ants actively controls their behavior within the colony. 
+Carpenter ants are a type of large ant species known for their ability to excavate wood to build nests. 
+Unlike termites, which eat wood, carpenter ants tunnel through it to create galleries and chambers for nesting, 
+and expel a material that resembles sawdust outside their nest.
+These ants are found in various parts of the world, mostly in forested areas, and play ecologically important roles in forest ecosystems by aiding in the 
+decomposition of dead wood.
+Carpenter ants, like many other ant species, have distinct castes within their colonies with specialized roles and responsibilities. 
+The primary castes in a carpenter ant colony include: the queen, male and workers
+The Queen: It is the largest ant in the colony and is responsible for laying eggs. She is the reproductive center of the colony and can live for several years. Her primary role is to ensure the colony's population growth.
+Males: Male ants, often referred to as "drones," are responsible for mating with the queen during the nuptial flight (a flight of sexually mature social insect in which mating takes place). Males are generally smaller in size and short-lived. Once they mate, they die shortly after fulfilling their role in reproduction.
+They are the winged Casanovas who speed-date with the queen during nuptial flights, but their love lives are as fleeting as a summer fling.
+Workers: Workers are sterile female ants and constitute the majority of the colony. 
+Based on their task, they are further divided into subcastes. Foragers forage for food, nurses care for the queen and her offspring, soldiers defend the nest, and excavators construct and maintain tunnels and galleries in the wood.
+The caste system among ants is like a never-ending reality show where queens are the drama queens, workers juggle more jobs than a circus performer, and male ants have the shortest gig in television history, with their appearance lasting just one episode.
+Now let’s turn back to the blood brain barrier in these ants.
+Blood brain barrier is a protective layer that lines the inner surfaces of blood vessels inside the brain. The cells forming the blood brain barrier are tightly packed together and 
+control how chemical molecules enter and exit the brain. 
+In many animals, including ants it ensures normal brain functioning, and our researchers have shown that it determines ant behavior within ant colonies.
+This phenomenon is mediated by the enzyme Juvenile hormone esterase (Jhe) produced by the blood brain barrier, which degrades Juvenile Hormone (JH3). 
+JH3 hormone is known to influence foraging behavior in social insect workers. 
+Normally, Juvenile hormone esterase is secreted into the hemolymph (insect blood), but in ants, it remains within the blood brain barrier cells, regulating the entry of Juvenile Hormone (JH3) into the worker ant's brain.
+The researchers found that the Juvenile hormone esterase gene, was exclusively present in BBB cells and exhibited notable distinctions between foragers and soldiers. 
+Manipulating the Jhe enzyme levels in ants altered their behaviors, switching soldiers to foragers. 
+It turns out even ants have their own version of 'The Hormone Factor,' where the blood-brain barrier is the discerning Simon Cowell deciding who gets the golden ticket to foraging stardom.
